@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/02+-+Setting+up+Mongo+DB.mp4" >Wes Bos Tutorial Video 2 - Setting up Mongo</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/03+-+Starter+Files+and+Environmental+Variables.mp4" >Wes Bos Tutorial Video - Starter Files and Environmental Variables</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/04+-+Core+Concept+-+Routing.mp4" >Wes Bos Tutorial Video - 04 - Core Concept - Routing</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/05+-+Core+Concept+-+Templating.mp4" >Wes Bos Tutorial Video - 05 - Core Concept - Templating</button></a>
+
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/06+-+Core+Concept+-+Template+Helpers.mp4" >Wes Bos Tutorial Video - 06 - Core Concept - Template Helpers</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/07+-+Core+Concept+-+Controllers+and+the+MVC+Pattern.mp4" >Wes Bos Tutorial Video - 07 - Core Concept - Controllers and the MVC Pattern</button></a>
+
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/08+-+Core+Concept+-+Middleware+and+Error+Handling.mp4" >Wes Bos Tutorial Video - 08 - Core Concept - Middleware and Error Handling</button></a>
+
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/09+-+Creating+our+Store+Model.mp4" >Wes Bos Tutorial Video - 09 - Creating our Store Model</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/10+-+Saving+Stores+and+using+Mixins.mp4" >Wes Bos Tutorial Video - 10 - Saving Stores and using Mixins</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/11+-+Using+Async+Await.mp4" >Wes Bos Tutorial Video - 11 - Using Async Await</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/12+-+Flash+Messages.mp4" >Wes Bos Tutorial Video - 12 - Flash Messages</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/13+-+Querying+our+Database+for+Stores.mp4" >Wes Bos Tutorial Video - 13 - Querying our Database for Stores</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/14+-+Creating+an+Editing+Flow+for+Stores.mp4" >Wes Bos Tutorial Video - 14 - Creating an Editing Flow for Stores</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/15+-+Saving+Lat+and+Lng+for+each+store.mp4" >Wes Bos Tutorial Video - 15 - Saving Lat and Lng for each store</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/16+-+Geocoding+Data+with+Google+Maps.mp4" >Wes Bos Tutorial Video - 16 - Geocoding Data with Google Maps</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/17+-+Quick+Data+Visualization+Tip+(1).mp4" >Wes Bos Tutorial Video - 17 - Quick Data Visualization Tip</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/18+-+Uploading+and+Resizing+Images+with+Middleware.mp4" >Wes Bos Tutorial Video - 18 - Uploading and Resizing Images with Middleware</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/19+-+Routing+and+Templating+Single+Stores.mp4" >Wes Bos Tutorial Video - 19 - Routing and Templating Single Stores</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/20+-+Using+Pre-Save+hooks+to+make+Unique+Slugs.mp4" >Wes Bos Tutorial Video - 20 - Using Pre-Save hooks to make Unique Slugs</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/22+-+Multiple+Query+Promises+with+Async_Await.mp4" >Wes Bos Tutorial Video - 22 - Multiple Query Promises with Async_Await</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/23+-+Creating+User+Accounts.mp4" >Wes Bos Tutorial Video - 23 - Creating User Accounts</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/24+-+Saving+Registered+Users+to+the+Database+(1).mp4" >Wes Bos Tutorial Video - 24 - Saving Registered Users to the Database</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/25+-+Virtual+Fields%2C+Login_Logout+middleware+and+Protecting+Routes.mp4" >Wes Bos Tutorial Video - 25 - Virtual Fields, Login_Logout middleware and Protecting Routes</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/26+-+Creating+a+User+Account+Edit+Screen.mp4" >Wes Bos Tutorial Video - 26 - Creating a User Account Edit Screen</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/27+-+Password+Reset+Flow.mp4" >Wes Bos Tutorial Video - 27 - Password Reset Flow</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/28+-+Sending+email+with+Nodejs+(1).mp4" >Wes Bos Tutorial Video - 28 - Sending email with Nodejs</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/29+-+Locking+down+our+application+with+User+Permissions.mp4" >Wes Bos Tutorial Video - 29 - Locking down our application with User Permissions</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/30+-+Loading+Sample+Data.mp4" >Wes Bos Tutorial Video - 30 - Loading Sample Data</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/31+-+JSON+endpoints+and+creating+MongoDB+Indexes.mp4" >Wes Bos Tutorial Video - 31 - JSON endpoints and creating MongoDB Indexes</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/32+-+Creating+an+Ajax+Search+Interface.mp4" >Wes Bos Tutorial Video - 32 - Creating an Ajax Search Interface</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/33+-+Creating+a+Geospatial+Ajax+Endpoint.mp4" >Wes Bos Tutorial Video - 33 - Creating a Geospatial Ajax Endpoint</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/34+-+Plotting+Stores+on+a+Custom+Google+Map.mp4" >Wes Bos Tutorial Video - 34 - Plotting Stores on a Custom Google Map</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/35+-+Pushing+User+Data+to+our+API.mp4" >Wes Bos Tutorial Video - 35 - Pushing User Data to our API</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/36+-+Displaying+our+Hearted+Stores.mp4" >Wes Bos Tutorial Video - 36 - Displaying our Hearted Stores</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/37+-+Adding+a+Reviews+Data+Model.mp4" >Wes Bos Tutorial Video - 37 - Adding a Reviews Data Model</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/38+-+Advanced+Relationship+Population+-+Displaying+Our+Reviews.mp4" >Wes Bos Tutorial Video - 38 - Advanced Relationship Population - Displaying Our Reviews</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/39+-+Advanced+Aggregation.mp4" >Wes Bos Tutorial Video - 39 - Advanced Aggregation</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/40+-+Implementing+Pagination.mp4" >Wes Bos Tutorial Video - 40 - Implementing Pagination</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/41+-+Deployment+Setup.mp4" >Wes Bos Tutorial Video - 41 - Deployment Setup</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/42+-+Deploying+to+Now.mp4" >Wes Bos Tutorial Video - 42 - Deploying to Now</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/43+-+Deploying+to+Heroku.mp4" >Wes Bos Tutorial Video - 43 - Deploying to Heroku</button></a>
+
+    <button><a href = "https://s3.amazonaws.com/hcspring2019/Wes+Bos+Tutorial+Videos/44+-+Deploying+to+Digital+Ocean+Linux.mp4" >Wes Bos Tutorial Video - 44 - Deploying to Digital Ocean Linux</button></a>
+    
+</body>
+</html>
